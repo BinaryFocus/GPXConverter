@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPXBuilder", "GPXBuilder\GPXBuilder.csproj", "{84AAFE4E-0A4E-4D4D-9C6C-C08BE1AD2578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPXSplit", "GPXSplit\GPXSplit.csproj", "{C3F9E8A8-D77F-468F-B0BF-281642933CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AAFE4E-0A4E-4D4D-9C6C-C08BE1AD2578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AAFE4E-0A4E-4D4D-9C6C-C08BE1AD2578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AAFE4E-0A4E-4D4D-9C6C-C08BE1AD2578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AAFE4E-0A4E-4D4D-9C6C-C08BE1AD2578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F9E8A8-D77F-468F-B0BF-281642933CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F9E8A8-D77F-468F-B0BF-281642933CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F9E8A8-D77F-468F-B0BF-281642933CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F9E8A8-D77F-468F-B0BF-281642933CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68DF93D1-CCB5-4EFC-8B44-BCE2FA3FA3A1}
+	EndGlobalSection
+EndGlobal
